@@ -1,4 +1,0 @@
-baseURL = 'https://github.com/younghoongo/bmc.github.io'
-languageCode = 'en-ko'
-title = 'My New Hugo Site'
-theme = "docsy"
